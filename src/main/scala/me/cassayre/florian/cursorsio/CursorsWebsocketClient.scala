@@ -4,6 +4,8 @@ import java.awt.Color
 import java.net.URI
 import java.nio.{ByteBuffer, ByteOrder}
 
+import me.cassayre.florian.cursorsio.elements._
+import me.cassayre.florian.cursorsio.packets._
 import org.java_websocket.client.WebSocketClient
 import org.java_websocket.handshake.ServerHandshake
 

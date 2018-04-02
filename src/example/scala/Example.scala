@@ -1,4 +1,5 @@
 import me.cassayre.florian.cursorsio._
+import me.cassayre.florian.cursorsio.packets._
 
 object Example extends App {
 

@@ -3,6 +3,8 @@ package me.cassayre.florian.cursorsio
 import java.net.URI
 import java.nio.{ByteBuffer, ByteOrder}
 
+import me.cassayre.florian.cursorsio.packets._
+
 class CursorsClient private(websocket: CursorsWebsocketClient) {
 
   /**

@@ -1,5 +1,7 @@
 package me.cassayre.florian.cursorsio
 
+import me.cassayre.florian.cursorsio.packets._
+
 trait CursorsListener {
 
   def onOpen(): Unit
